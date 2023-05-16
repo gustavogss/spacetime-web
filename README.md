@@ -3,7 +3,7 @@
 ## Tecnologias e Ferramentas utilizadas :robot:
 
 - [VsCode](#)
-- [HTML] (#)
+- [HTML](#)
 - [JavaScript](#)
 - [CSS](#)
 
